@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: BioStandards
+description: Code, data and standards
+meta_description: "Bioinformatics and data code, thoughts, and standards"
 
 aboutPage: true
 
@@ -9,17 +9,17 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-disqus: false
-disqus_shortname: 'your-disqus-shortname'
+domain_name: 'http://yassines.github.io/'
+google_analytics: 'UA-68129481-1'
+disqus: true
+disqus_shortname: 'The_Smiao'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://yassines.github.io/'
+author:         'Yassine Souilmi'
+authorTwitter:  'The_Smiao'
 
-permalink:       /:year/:title/
+permalink:       /:year/:month/:title/
 
 defaults:
     -
